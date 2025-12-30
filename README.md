@@ -9,7 +9,7 @@ I am a Computer Engineering student at Çukurova University, passionate about so
 - 🔭 I’m currently studying **Computer Engineering at Çukurova University**.
 - 🌱 I’m currently learning **Java, Python, and German**.
 - 🎯 My Goal: Building scalable **E-commerce** systems and contributing to global projects.
-- ⚡ Interests: **Formula 1, AI and Tech Trends**.
+- ⚡ Interests: **Formula 1, Chess, AI and Tech Trends**.
 - 📫 How to reach me: **omererdemyakar@gmail.com**
 
 ---
